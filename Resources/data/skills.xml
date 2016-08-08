@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <name>Fire Flame</name>
+    <description>Deal 10 Damage!</description>
+    <manaCost>1</manaCost>
+    <coolDownMS>1000</coolDownMS>
+  </skill>
+  <skill>
+    <name>Heal</name>
+    <description>Heal 10 HP!</description>
+    <manaCost>10</manaCost>
+    <coolDownMS>5000</coolDownMS>
+  </skill>
+</skills>

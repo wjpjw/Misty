@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<units>
+  <unit>
+    <name>Goblin Lancer</name>
+    <description>~~~~~~~~~~~~~</description>
+    <hp>10</hp>
+    <attackDamage>2</attackDamage>
+    <attackIntervalMS>1500</attackIntervalMS>
+    <moveSpeedPerS>50</moveSpeedPerS>
+    <attackRange>10</attackRange>
+    <model>goblin</model>
+  </unit>
+  <unit>
+    <name>Goblin Worrior</name>
+    <description>~~~~~~~~~~~~~~~</description>
+    <hp>15</hp>
+    <attackDamage>1</attackDamage>
+    <attackIntervalMS>2500</attackIntervalMS>
+    <moveSpeedPerS>30</moveSpeedPerS>
+    <attackRange>300</attackRange>  
+    <model>goblin</model>
+  </unit>  
+</units>
+
+
